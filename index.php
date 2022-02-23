@@ -186,13 +186,13 @@
                     <a href="https://apps.apple.com/in/app/1line-draw-puzzle/id1608148425" target="_blank"><img src="./img/screen1.png"></a>
                 </div>
                 <div class="item">
-                    <img src="./img/screen2.png">
+                   <a href="https://apps.apple.com/in/app/tile-master-triple-match/id1609058685" target="_blank"><img src="./img/screen2.png"></a>
                 </div>
                 <div class="item">
-                    <img src="./img/screen3.png">
+                    <a href="https://apps.apple.com/in/app/stack-ball-crash/id1607232338" target="_blank"><img src="./img/screen3.png"></a>
                 </div>
                 <div class="item">
-                    <img src="./img/screen4.png">
+                    <a href="https://apps.apple.com/in/app/photo-gallery-vault/id1610533913" target="_blank"><img src="./img/screen4.png"></a>
                 </div>
             </div>
         </div>
