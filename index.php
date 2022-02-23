@@ -109,7 +109,7 @@
             <div class="row no-gutters">
                 <div class="col-12 col-lg-6 banner-details text-center text-lg-left">
                     <div class="banner-inner-content">
-                        <h4 class="banner-heading"><span>IOS</span> Games | Apps Design and Development</h4>
+                        <h4 class="banner-heading"><span>IOS</span> Apps | Games</h4>
                         <p class="banner-text">Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.</p>                  
                     </div>
                 </div>
