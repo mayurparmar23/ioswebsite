@@ -183,7 +183,7 @@
             </div>
             <div class="app-clips-slider owl-carousel owl-theme">
                 <div class="item">
-                    <a href="https://apps.apple.com/in/app/1line-draw-puzzle/id1608148425" target="_blank"><img src="./img/screen1.png">
+                    <a href="https://apps.apple.com/in/app/1line-draw-puzzle/id1608148425" target="_blank"><img src="./img/screen1.png"></a>
                 </div>
                 <div class="item">
                     <img src="./img/screen2.png">
