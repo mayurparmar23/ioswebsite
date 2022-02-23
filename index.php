@@ -220,7 +220,7 @@
                     <!--App deatil item-->
                     <div class="app-feature">
                         <i class="fa fa-mobile" aria-hidden="true"></i>
-                        <h4 class="mb-3">Application</h4>
+                        <h4 class="mb-3">Applications</h4>
                         <p>Do you need an app development company? our team of mobile experts can develop a complete strategy and design according to your requirements.</p>
                     </div>
                 </div>
