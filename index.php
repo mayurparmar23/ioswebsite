@@ -49,7 +49,7 @@
                             <a class="nav-link scroll" href="#services-sec">Rate & Review</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link scroll" href="#app-clips">Screen Shots</a>
+                            <a class="nav-link scroll" href="#app-clips">Store List</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link scroll" href="#app">Features</a>
@@ -88,7 +88,7 @@
                         <a class="nav-link scroll" href="#services-sec"><i class="las la-angle-double-right"></i> Rate & Review</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link scroll" href="#app-clips"><i class="las la-angle-double-right"></i> Screen Shots</a>
+                        <a class="nav-link scroll" href="#app-clips"><i class="las la-angle-double-right"></i> Store List</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link scroll" href="#app"><i class="las la-angle-double-right"></i> Features</a>
@@ -178,28 +178,22 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 app-clips-details" >
-                    <h3 class="heading text-center">ScreenShots</h3>
+                    <h3 class="heading text-center">Store List</h3>
                     <p class="detail-text text-center"></p>
                 </div>
             </div>
             <div class="app-clips-slider owl-carousel owl-theme">
                 <div class="item">
-                    <img src="./img/screen1.jpg">
+                    <img src="./img/screen1.png">
                 </div>
                 <div class="item">
-                    <img src="./img/screen2.jpg">
+                    <img src="./img/screen2.png">
                 </div>
                 <div class="item">
-                    <img src="./img/screen3.jpg">
+                    <img src="./img/screen3.png">
                 </div>
                 <div class="item">
-                    <img src="./img/screen4.jpg">
-                </div>
-                <div class="item">
-                    <img src="./img/screen5.jpg">
-                </div>
-                <div class="item">
-                    <img src="./img/screen6.jpg">
+                    <img src="./img/screen4.png">
                 </div>
             </div>
         </div>
