@@ -109,7 +109,7 @@
             <div class="row no-gutters">
                 <div class="col-12 col-lg-6 banner-details text-center text-lg-left">
                     <div class="banner-inner-content">
-                        <h4 class="banner-heading"><span>Build IOS</span> Games | Apps</h4>
+                        <h4 class="banner-heading"><span>IOS</span> Games | Apps</h4>
                         <p class="banner-text"></p>                  
                     </div>
                 </div>
