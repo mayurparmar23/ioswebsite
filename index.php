@@ -255,7 +255,7 @@
             <div class="row">
                 <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 get-app-details text-center" >
                     <!-- <p class="sub-heading text-center">- Most flexible one page -</p> -->
-                    <h3 class="heading text-center">Get Iphone Apps & Games</h3>
+                    <h3 class="heading text-center">Get iPhone Apps & Games</h3>
                     <a href="https://apps.apple.com/in/developer/mayur-parmar/id1603829229" target="_blank" class="get-app-btn"><i class="fa fa-apple"></i>App Store</a>
                 </div>
             </div>
