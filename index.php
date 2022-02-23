@@ -183,7 +183,7 @@
             </div>
             <div class="app-clips-slider owl-carousel owl-theme">
                 <div class="item">
-                    <img src="./img/screen1.png">
+                    <a href="https://apps.apple.com/in/app/1line-draw-puzzle/id1608148425" target="_blank"><img src="./img/screen1.png">
                 </div>
                 <div class="item">
                     <img src="./img/screen2.png">
@@ -267,10 +267,9 @@
             <div class="row">
                 <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 get-app-details text-center" >
                     <!-- <p class="sub-heading text-center">- Most flexible one page -</p> -->
-                    <h3 class="heading text-center">Get Mobile App</h3>
+                    <h3 class="heading text-center">Get Iphone Apps & Games</h3>
                     <p class="detail-text text-center">Enjoy Power VPN (Free VPN Proxy) Service with unlimited speed and bandwidth for Lifetime. Now You Can Access Blocked Internet Content easily with just a click using Power VPN's Secure & Fast VPN Tunnels.</p>
-                    <a href="https://play.google.com/store/apps/details?id=com.vpnmaster.free.ultravpn.vpnmaster.proxy.unblock" target="_blank" class="get-app-btn"><i class="fa fa-android"></i>Google Store</a>
-                    <a href="#" target="_blank" class="get-app-btn"><i class="fa fa-apple"></i>App Store</a>
+                    <a href="https://apps.apple.com/in/developer/mayur-parmar/id1603829229" target="_blank" class="get-app-btn"><i class="fa fa-apple"></i>App Store</a>
                 </div>
             </div>
         </div>
