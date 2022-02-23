@@ -207,7 +207,7 @@
                 <div class="col-md-12 text-center wow fadeIn app-details">
                     <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2" >
                         <i class="fa fa-apple" aria-hidden="true"></i>
-                        <h3 class="heading text-center">Design and Development for IOS</h3>
+                        <h3 class="heading text-center">Design & Develop for IOS</h3>
                         <p class="detail-text text-center">Being innovative is nothing but possessing the uncanny ability of translating the vaguest of ideas, faintest of whims and wildest of fantasies into reality. We have an amazing skilled iPhone apps or games developers endowed with amazing technical skills, and are gifted with the uncanny ability of converting your dreams into wonderful realities.</p>
                     </div>
                 </div>
