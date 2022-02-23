@@ -11,7 +11,7 @@
         <!-- keywords -->
         <meta name="keywords" content="creative, modern, clean, bootstrap responsive, html5, css3, portfolio, blog, agency, templates, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, faq">
         <!-- Page Title -->
-        <title>M SQUARE - Build The Best Application</title>
+        <title>M SQUARE | Build The Best Apps and Games</title>
         <!-- Favicon -->
         <link rel="icon" href="./img/favicon.png">
         <!--css links-->
@@ -109,9 +109,8 @@
             <div class="row no-gutters">
                 <div class="col-12 col-lg-6 banner-details text-center text-lg-left">
                     <div class="banner-inner-content">
-                        <h4 class="banner-heading"><span>IOS Applications & Games</span> App</h4>
-                        <p class="banner-text"> The best free & unlimited vpn tunnel for android to unblock sites, watch online video, bypass blocked apps, secure WiFi hotspots and browse privately & anonymously</p>                  
-                        <a href="https://apps.apple.com/in/developer/mayur-parmar/id1603829229" target="_blank" class="btn banner-btn">App Store</a>
+                        <h4 class="banner-heading"><span>Build IOS</span> Games | Apps</h4>
+                        <p class="banner-text"></p>                  
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 banner-img">
@@ -177,7 +176,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 app-clips-details" >
-                    <h3 class="heading text-center">Store List</h3>
+                    <h3 class="heading text-center">Apps & Games List</h3>
                     <p class="detail-text text-center"></p>
                 </div>
             </div>
@@ -207,8 +206,9 @@
             <div class="row">
                 <div class="col-md-12 text-center wow fadeIn app-details">
                     <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2" >
-                        <h3 class="heading text-center">VPN Proxy Speed Booster</h3>
-                        <p class="detail-text text-center">No speed limitation or bandwidth limitation! With Power VPN, download and stream videos without having to wait when it's buffering. It optimizes the network by auto-detecting and connecting the fastest and most stable DNS server to boost your web browsing speed when you unblock sites or unblock apps.</p>
+                        <i class="fa fa-apple" aria-hidden="true"></i>
+                        <h3 class="heading text-center">IOS System</h3>
+                        <p class="detail-text text-center">Being innovative is nothing but possessing the uncanny ability of translating the vaguest of ideas, faintest of whims and wildest of fantasies into reality. We have an amazing skilled iPhone apps or games developers endowed with amazing technical skills, and are gifted with the uncanny ability of converting your dreams into wonderful realities.</p>
                     </div>
                 </div>
             </div>
@@ -219,16 +219,10 @@
                 <div class="col-lg-4 mb-5 mb-lg-0 wow fadeInLeft">
                     <!--App deatil item-->
                     <div class="app-feature">
-                        <i class="fa fa-wifi" aria-hidden="true"></i>
-                        <h4 class="mb-3">Shield WiFi Hotspot</h4>
-                        <p>Your VPN Internet traffic is completely encrypted. Using a VPN, your IP and location will be masked, VPN hides your IP address. Get full internet privacy, You can use Norton Secure VPN Proxy security</p>
+                        <i class="fa fa-mobile" aria-hidden="true"></i>
+                        <h4 class="mb-3">Application</h4>
+                        <p>Do you need an app development company? our team of mobile experts can develop a complete strategy and design according to your requirements.</p>
                     </div>
-                    <div class="app-feature">
-                        <i class="fa fa-lock" aria-hidden="true"></i>
-                        <h4 class="mb-3">Privacy Protection</h4>
-                        <p>Using VPN Master, your IP and location will be masked and your activities can no longer be tracked on the Internet. VPN Master service is your privacy guard and better than web proxy servers.</p>
-                    </div>
-                    <!--App deatil item-->
                 </div>
                 <!--app slider-->
                 <div class="col-lg-4 mb-5 mb-lg-0 wow fadeInUp">
@@ -241,15 +235,9 @@
                 <div class="col-lg-4 wow fadeInRight">
                     <!--App deatil item-->
                     <div class="app-feature">
-                        <i class="fa fa-unlock-alt" aria-hidden="true"></i>
-                        <h4 class="mb-3">Unlock Websites</h4>
-                        <p> VPN Proxy Server to Unblock Sites and Unblock Apps Choose a proxy server and you can unblock sites or unblock apps listed in various prohibition registries without any restrictions.</p>
-                    </div>
-                    <!--App deatil item-->
-                    <div class="app-feature">
-                        <i class="fa fa-globe" aria-hidden="true"></i>
-                        <h4 class="mb-3">Country</h4>
-                        <p>Free VPN Connect for USA, India, Hong kong, Turkey, Sweden, Netherlands, Japan, Singapore, Canada, France, Brazil, Australia, Germany, UK, etc.</p>
+                        <i class="fa fa-gamepad" aria-hidden="true"></i>
+                        <h4 class="mb-3">Games</h4>
+                        <p>Being one of the gaming companies, we create innovative gaming apps that have the true potential to be the next craze of this era.</p>
                     </div>
                 </div>
 
@@ -268,7 +256,6 @@
                 <div class="col-12 col-md-10 col-lg-8 offset-md-1 offset-lg-2 get-app-details text-center" >
                     <!-- <p class="sub-heading text-center">- Most flexible one page -</p> -->
                     <h3 class="heading text-center">Get Iphone Apps & Games</h3>
-                    <p class="detail-text text-center">Enjoy Power VPN (Free VPN Proxy) Service with unlimited speed and bandwidth for Lifetime. Now You Can Access Blocked Internet Content easily with just a click using Power VPN's Secure & Fast VPN Tunnels.</p>
                     <a href="https://apps.apple.com/in/developer/mayur-parmar/id1603829229" target="_blank" class="get-app-btn"><i class="fa fa-apple"></i>App Store</a>
                 </div>
             </div>
@@ -282,7 +269,7 @@
             <div class="row">
                 <div class="col-12 d-flex justify-content-center">
                     <div class="footer-icons d-flex">
-                        <a target="_blank" href="#" class="wow fadeInUp"><i class="fa fa-copyright"></i> All Rights is reserved by <b style="margin-left: 5px;margin-top: 0px;"> Mayur Parmar</b></a>
+                        <a target="_blank" href="#" class="wow fadeInUp"><i class="fa fa-copyright"></i> All Rights is reserved by <b style="margin-left: 5px;margin-top: 0px;"> M SQUARE</b></a>
                     </div>
                 </div>
             </div>
