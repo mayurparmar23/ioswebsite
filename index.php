@@ -109,10 +109,9 @@
             <div class="row no-gutters">
                 <div class="col-12 col-lg-6 banner-details text-center text-lg-left">
                     <div class="banner-inner-content">
-                        <h4 class="banner-heading"><span>VPN Master</span> App</h4>
+                        <h4 class="banner-heading"><span>IOS Applications & Games</span> App</h4>
                         <p class="banner-text"> The best free & unlimited vpn tunnel for android to unblock sites, watch online video, bypass blocked apps, secure WiFi hotspots and browse privately & anonymously</p>                  
-                        <a href="https://play.google.com/store/apps/details?id=com.vpnmaster.free.ultravpn.vpnmaster.proxy.unblock" target="_blank" class="btn banner-btn">Google Store</a>
-                        <a href="#" target="_blank" class="btn banner-btn">App Store</a>
+                        <a href="https://apps.apple.com/in/developer/mayur-parmar/id1603829229" target="_blank" class="btn banner-btn">App Store</a>
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 banner-img">
